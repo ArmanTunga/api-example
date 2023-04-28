@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "7d0ef2263c233b9807265d84da5f221e"
+API_KEY = "*****************" # Your own API_KEY, we added only for test purposes. Please use .env files.
 url_weather = "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}"
 
 city_name = "Istanbul"
