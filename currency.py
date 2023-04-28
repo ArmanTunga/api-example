@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "UinwoMMdbMWIwybSbAHi2TdH6oH4DRFG"
+API_KEY = "*****************" # Your own API_KEY, we added only for test purposes. Please use .env files.
 
 # url = "https://api.apilayer.com/exchangerates_data/convert?to={to}&from={from}&amount={amount}"
 
